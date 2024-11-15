@@ -1,0 +1,1 @@
+print(str(34) > str(32))
